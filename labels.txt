@@ -1,0 +1,3 @@
+0 mature
+1 immature
+2 none
